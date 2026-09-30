@@ -92,4 +92,4 @@ Saldo Acumulado = CALCULATE([Fluxo de Caixa], FILTER(ALL(Calendario[Date]), Cale
 
 ---
 
-Autora: [Alyce abade] · LinkedIn: [www.linkedin.com/in/alyce-abade-morais]
+Autora: Alyce abade · LinkedIn: www.linkedin.com/in/alyce-abade-morais
